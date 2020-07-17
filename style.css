@@ -56,9 +56,6 @@ body{
     font-weight: bold;
     font-size: 48px;
     line-height: 70px;
-    /* or 146% */
-
-
     color: #000000;
 }
 
@@ -87,6 +84,10 @@ body{
 
 .poster-img-gap{
     margin-left: 100px;
+}
+
+.books{
+    margin-top: 50px;
 }
 
 .category-item {
@@ -125,9 +126,6 @@ body{
     color: #585859;
 }
 
-.categories{
-    margin-top: 50px;
-}
 
 .section-name h2{
     text-align: center;
@@ -221,7 +219,7 @@ Footer{
     background: #282531;
 }
 
-Footer p, h5{
+Footer .text, h5{
     margin-top: 80px;
     
     
